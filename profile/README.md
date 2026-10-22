@@ -8,13 +8,13 @@ Conecta Nexus es un proyecto académico para el curso de Desarrollo de Aplicacio
 
 ## ¿Cómo ejecutar el proyecto?
 
-Ir al repositorio de entrada para más información sobre ejecución: (conecta-nexus)[https://github.com/conecta-nexus/conecta-nexus]
+Ir al repositorio de entrada para más información sobre ejecución: [conecta-nexus](https://github.com/conecta-nexus/conecta-nexus)
 
 ## ¿Qué hay en esta organización?
 
 Se cuenta con todos los repositorios respectivos para los microservicios (6 repos en total), un repo para frontend, un repo de gateway y otro para infraestructura en gcp con terraform. También se cuentan con un repositorio que se utilizó únicamente para el piloto del vídeo de entrega como material para el primer previo evaluado, un repositorio de un artículo de estado del arte para otro curso académico, y por último un repositorio especial para organizaciones donde se encuentra este README.
 
-También se cuenta con un project a nivel de organización con el que se sigue el desarrollo de los Sprints a través de todos los repositorios (el repo (conecta-nexus)[https://github.com/conecta-nexus/conecta-nexus] tiene csvs y scripts con información para el manejo de los issues, workflows, y demás detalles para hacer manejo de esto)
+También se cuenta con un project a nivel de organización con el que se sigue el desarrollo de los Sprints a través de todos los repositorios (el repo [conecta-nexus](https://github.com/conecta-nexus/conecta-nexus) tiene csvs y scripts con información para el manejo de los issues, workflows, y demás detalles para hacer manejo de esto)
 
 ### ¿Qué hay en el project?
 
